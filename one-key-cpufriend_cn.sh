@@ -49,6 +49,7 @@ LFM_SUPPORTED_MODELS=(
   'Mac-FFE5EF870D7BA81A' # iMac16,2
   'Mac-4B682C642B45593E' # iMac18,1
   'Mac-77F17D7DA9285301' # iMac18,2
+  'Mac-BE088AF8C5EB4FA2' # iMac18,3
 )
 
 function printHeader() {
